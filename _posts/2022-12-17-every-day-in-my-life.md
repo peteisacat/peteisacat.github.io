@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 呼吸都觉得不安全
-categories:[day]
+categories: [day]
 ---
 
 一天都没有出门，觉得外面空气里面都带毒。

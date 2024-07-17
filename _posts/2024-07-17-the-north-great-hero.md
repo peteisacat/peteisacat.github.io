@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 北方大侠初到来
-categories:
-  - 日子
+categories:[days]
 ---
 过初伏2天，杭州每天都像在下火。
 

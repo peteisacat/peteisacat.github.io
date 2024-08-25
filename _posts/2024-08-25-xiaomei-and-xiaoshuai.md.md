@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小美小帅的故事
-categories: 旧事
+categories: yesterday
 ---
 我们的小学在村里读，高中就需要到乡里读，而且由于要上晚自习，所以必须要住在乡里。
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小时候真傻，竟然盼着长大
-categories: 日子
+categories: days
 ---
 我记得初中班主任某一次给我的信中说：青春的无瑕与无邪，在于它的可遇而不可求，在于它的永不重回。
 
